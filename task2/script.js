@@ -1,3 +1,6 @@
+//landing message
+document.write("Please check the console");
+
 let arr = [], french = [], german = [];
 
 // for loop to fill the array arr with numbers from 1 to 25

@@ -1,3 +1,6 @@
+//landing message
+document.write("Please check the console");
+
 console.log("checking if this works or what");
 // initialize an array
 let a = 20;

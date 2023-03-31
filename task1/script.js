@@ -1,3 +1,6 @@
+//landing message
+document.write("Please check the console");
+
 //declaration of Array
 let a = [10];
 
