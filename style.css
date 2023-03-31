@@ -1,0 +1,20 @@
+.preview-buttons {
+    border-style: double;
+    border-radius: 16px;
+    box-shadow: 16px;
+    border-width: 8px;
+    width: fit-content;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aquamarine;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.mainpage {
+    width: fit-content;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 16px;
+    border-color: darkcyan;
+    background-color: cornflowerblue;
+}
